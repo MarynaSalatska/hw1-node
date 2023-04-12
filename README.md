@@ -1,5 +1,6 @@
 # hw1-node
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+https://monosnap.com/file/TCdwHwDPRjwHPcltST3Dz6gU12ehJg
 node index.js --action="list"
 
 # Отримуємо контакт по id
